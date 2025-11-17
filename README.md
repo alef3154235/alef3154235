@@ -8,11 +8,11 @@
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📊 Minhas Estatísticas no GitHub
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alef3154235&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alef3154235&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=alef3154235&theme=dark&show_icons=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alef3154235&layout=compact&theme=dark&locale=pt-br" />
 </div>
 
 ---
@@ -20,10 +20,9 @@
 ## 🧠 Tecnologias que estou estudando
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alef-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alef-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Alef-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alef-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Alef-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alef-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Alef-DB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
@@ -53,4 +52,3 @@
 ---
 
 <img align="right" alt="Alef-gif" height="120" src="https://cdn.discordapp.com/attachments/79535891447397249/825432508595816888/hi.gif">
-
