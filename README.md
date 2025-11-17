@@ -1,18 +1,56 @@
-## Olá! 👋
+## Olá! Eu sou o Alef 👋
 
-Meu nome é **Alef**, estou em 2025 cursando faculdade no **UDF**.  
-No momento, sou **Jovem Aprendiz no Senac** e trabalho no **Banco do Brasil**, na área de **Recursos Humanos**.
+- 🔧 Hoje trabalho como Jovem Aprendiz no **Senac**  
+- 🏦 Atuo no **Banco do Brasil**, no setor de **RH**  
+- 🎓 Estudo no **UDF** (2025)  
+- 💻 Estou aprendendo programação  
+- 👤 Pronomes: ele/dele  
 
-### 📚 Atualmente estou aprendendo a programar em:
-- HTML  
-- CSS  
-- JavaScript  
-- Linguagem C  
-- Gerenciamento de Sistemas de Banco de Dados
+---
 
-### 🎯 Onde quero estar daqui a alguns anos:
-Depois de terminar a faculdade, espero estar em uma **grande empresa**, trabalhando com o que amo: **programação**.
+## 📊 Minhas Estatísticas
 
-### 📬 Como entrar em contato comigo:
-- 📱 **Telefone/WhatsApp:** (61) 99450-8944  
-- 📸 **Instagram:** [@alefdejesus_4173](https://instagram.com/alefdejesus_4173)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alef3154235&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alef3154235&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+---
+
+## 🧠 Tecnologias que estudo
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Alef-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Alef-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Alef-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Alef-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Alef-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Alef-DB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
+---
+
+## 🌐 Minhas Redes
+
+<div>
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+
+  <a href="https://instagram.com/alefdejesus_4173" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+---
+
+<img align="right" alt="Alef-gif" height="120" src="https://cdn.discordapp.com/attachments/79535891447397249/825432508595816888/hi.gif">
+
